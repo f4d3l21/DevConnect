@@ -1,0 +1,16 @@
+{
+  "solution": {
+    "path": "DevConncet.Uno.sln",
+    "projects": [
+		"DevConncet.Uno\\DevConncet.Uno.csproj",
+
+		"DevConncet.Uno.Mobile\\DevConncet.Uno.Mobile.csproj",
+
+		"DevConncet.Uno.Wasm\\DevConncet.Uno.Wasm.csproj",
+
+		"DevConncet.Uno.Skia.Gtk\\DevConncet.Uno.Skia.Gtk.csproj",
+
+		"DevConncet.Uno.Skia.Gtk\\DevConncet.Uno.Skia.Gtk.csproj",
+    ]
+  }
+}
