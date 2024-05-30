@@ -1,0 +1,23 @@
+# Visual Studio
+.vscode/
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.vssscc
+*.cache
+*.log
+*.pdb
+*.obj
+*.exe
+*.dll
+*.dir
+*.sdf
+*.sou
+*.ncb
+*.ipch
+*.aps
+*.pch
+*.rsp
+*.tlb
